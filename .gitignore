@@ -1,7 +1,0 @@
-# logs / temp
-logs/
-*.log
-
-# editor / OS
-.vscode/
-.DS_Store
